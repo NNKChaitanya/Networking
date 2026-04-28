@@ -1,3 +1,64 @@
 Network :
 “Networking is the process of connecting multiple devices together to enable communication, data sharing, and resource access using standardized protocols. It allows systems within a local network or across different geographical locations to communicate efficiently.”
 
+🧰 1. Network Devices
+
+“The first component is network devices, which enable connectivity and traffic flow.”
+
+👉 Examples:
+Switch → connects devices in LAN (Layer 2)
+Router → connects different networks (Layer 3)
+Firewall → provides security (filters traffic)
+Access Point → enables wireless connectivity
+Load Balancer → distributes traffic
+
+🌐 2. Network Types
+
+“The second component is network types, based on coverage.”
+
+👉 Examples:
+LAN → local network (office)
+WAN → connects multiple locations
+SD-WAN → intelligent WAN overlay
+
+🧠 3. Protocols
+
+“Protocols define the rules of communication between devices.”
+
+👉 Examples:
+TCP / UDP
+DNS
+DHCP
+HTTP / HTTPS
+ICMP
+
+🧱 4. Addressing
+
+“Addressing is used to uniquely identify devices in a network.”
+
+👉 Types:
+IP Address (logical)
+MAC Address (physical)
+Subnetting (CIDR)
+
+🔐 5. Security Components
+
+“Security ensures safe communication within the network.”
+
+👉 Examples:
+ACL
+NAT
+VPN
+Firewalls
+
+🔌 6. Network Services
+
+“These provide essential functionalities for network operations.”
+
+👉 Examples:
+DNS → name resolution
+DHCP → IP assignment
+NTP → time sync
+DNS → name resolution
+DHCP → IP assignment
+NTP → time sync
