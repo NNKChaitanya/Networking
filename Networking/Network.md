@@ -9,10 +9,15 @@ Network :
 “The first component is network devices, which enable connectivity and traffic flow.”
 
 👉 Examples:
+
 Switch → connects devices in LAN (Layer 2)
+
 Router → connects different networks (Layer 3)
+
 Firewall → provides security (filters traffic)
+
 Access Point → enables wireless connectivity
+
 Load Balancer → distributes traffic
 
 🌐 2. Network Types
@@ -20,19 +25,28 @@ Load Balancer → distributes traffic
 “The second component is network types, based on coverage.”
 
 👉 Examples:
+
 LAN → local network (office)
+
 WAN → connects multiple locations
+
 SD-WAN → intelligent WAN overlay
+
 
 🧠 3. Protocols
 
 “Protocols define the rules of communication between devices.”
 
 👉 Examples:
+
 TCP / UDP
+
 DNS
+
 DHCP
+
 HTTP / HTTPS
+
 ICMP
 
 🧱 4. Addressing
@@ -40,18 +54,27 @@ ICMP
 “Addressing is used to uniquely identify devices in a network.”
 
 👉 Types:
+
 IP Address (logical)
+
 MAC Address (physical)
+
 Subnetting (CIDR)
 
+
 🔐 5. Security Components
+
 
 “Security ensures safe communication within the network.”
 
 👉 Examples:
+
 ACL
+
 NAT
+
 VPN
+
 Firewalls
 
 🔌 6. Network Services
@@ -59,9 +82,16 @@ Firewalls
 “These provide essential functionalities for network operations.”
 
 👉 Examples:
+
 DNS → name resolution
+
 DHCP → IP assignment
+
 NTP → time sync
+
 DNS → name resolution
+
 DHCP → IP assignment
+
 NTP → time sync
+
