@@ -1,4 +1,4 @@
-PHASE 1 - NETWORK FOUNDATIONS
+# PHASE 1 - NETWORK FOUNDATIONS
 
 - What is networking
 
@@ -19,7 +19,7 @@ PHASE 1 - NETWORK FOUNDATIONS
 - Frame forwarding
 
 
-PHASE 2 - SWITCHING
+# PHASE 2 - SWITCHING
 
 - VLAN
 
@@ -44,7 +44,7 @@ PHASE 2 - SWITCHING
 - DAI
 
 
-PHASE 3 - IP ADDRESSING
+# PHASE 3 - IP ADDRESSING
 
 - IPv4
 
@@ -59,7 +59,7 @@ PHASE 3 - IP ADDRESSING
 - Summarization
 
 
-PHASE 4 - ROUTING
+# PHASE 4 - ROUTING
 
 - Router operation
 
@@ -76,7 +76,7 @@ PHASE 4 - ROUTING
 - Floating Routes
 
 
-PHASE 5 - DYNAMIC ROUTING
+# PHASE 5 - DYNAMIC ROUTING
 
 - RIP
 
@@ -86,7 +86,7 @@ PHASE 5 - DYNAMIC ROUTING
 
 - BGP
 
-Deep dive into:
+# Deep dive into:
 
 - Neighbor formation
 
@@ -99,7 +99,7 @@ Deep dive into:
 - Troubleshooting
 
 
-PHASE 6 - SERVICES
+# PHASE 6 - SERVICES
 
 - DNS
 
@@ -112,7 +112,7 @@ PHASE 6 - SERVICES
 - Syslog
 
 
-PHASE 7 - SECURITY
+# PHASE 7 - SECURITY
 
 - ACL
 
@@ -125,7 +125,7 @@ PHASE 7 - SECURITY
 - VPN
 
 
-PHASE 8 - TROUBLESHOOTING
+# PHASE 8 - TROUBLESHOOTING
 
 - Real-world packet tracing:
 
